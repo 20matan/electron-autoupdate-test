@@ -1,0 +1,4 @@
+appId: com.example.MatanElectronAutoDeployTest
+publish:
+  provider: github
+  token: [YOUR GITHUB ACCESS TOKEN]
