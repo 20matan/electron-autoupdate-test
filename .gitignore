@@ -2,4 +2,3 @@ node_modules/
 dist/
 .idea/
 electron-builder.yml
-key.pfx
